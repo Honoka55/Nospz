@@ -1,0 +1,35 @@
+name: Font request
+description: Request a new font from this project
+title: "Font Request for [Your Website Name]"
+labels: ["font request"]
+body:
+  - type: markdown
+    attributes:
+      value: To request a new font, please fill in the form below.
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      description: Which website is the font for?
+      placeholder: "[Website Name](URL)"
+    validations:
+      required: true
+  - type: input
+    id: type
+    attributes:
+      label: Font Type
+      description: What font type do you need?
+      placeholder: Sans-serif, usually.
+    validations:
+      required: true
+  - type: textarea
+    id: characters
+    attributes:
+      label: Characters Needed
+    validations:
+      required: true
+  - type: input
+    id: other
+    attributes:
+      label: Additional context
+      placeholder: Add any other things about the font request here.
