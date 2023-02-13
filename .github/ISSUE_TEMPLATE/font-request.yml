@@ -28,8 +28,8 @@ body:
       label: Characters Needed
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: other
     attributes:
       label: Additional context
-      placeholder: Add any other things about the font request here.
+      description: Add any other things about the font request here.
