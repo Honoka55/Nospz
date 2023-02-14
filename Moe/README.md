@@ -20,7 +20,7 @@ There is a companion [widget](https://github.com/MoegirlPediaInterfaceAdmins/Moe
 - 20210815: Character shape consistent with the latest version of Plangothic unless there are special circumstances. Optimization of character structure and strokes, addition of CJK characters and kana, completion of missed characters in the previous version.
 
 ## Reporting Missing Characters
-If you have noticed any missing characters on Moegirlpedia, you can report it by replying to [Issue #1](https://github.com/Honoka55/Nospz/issues/1) or editing [this page](https://zh.moegirl.org.cn/User:Honoka55/NospzGothicMoe/TODO), and I will update the font periodically to include them. I will also track them through [Abuse #74](https://zh.moegirl.org.cn/Special:AbuseFilter/74). Your feedback is appreciated and will help make the font even better.
+If you have noticed any missing characters on Moegirlpedia, you can report it by replying to [Issue #1](https://github.com/Honoka55/Nospz/issues/1) or editing [this page](https://zh.moegirl.org.cn/User:Honoka55/NospzGothicMoe/TODO), and I will update the font periodically to include them. I will also track them through [Abuse Filter #74](https://zh.moegirl.org.cn/Special:AbuseFilter/74). Your feedback is appreciated and will help make the font even better.
 
 ## License
 
