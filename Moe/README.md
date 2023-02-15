@@ -2,7 +2,7 @@
 
 A sans-serif fallback font based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) designed for [Moegirlpedia](https://zh.moegirl.org.cn).
 
-There is a companion [widget](https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes/blob/master/src/gadgets/GothicMoe/MediaWiki:Gadget-GothicMoe.css) on the wiki for calling the font.
+There is a companion [gadget](https://github.com/MoegirlPediaInterfaceAdmins/MoegirlPediaInterfaceCodes/blob/master/src/gadgets/GothicMoe/MediaWiki:Gadget-GothicMoe.css) on the wiki for calling the font.
 
 ## Changelog
 
